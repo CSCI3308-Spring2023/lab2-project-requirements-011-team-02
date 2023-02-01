@@ -1,9 +1,13 @@
 # CSCI 3308 Lab 2: Team Formation
 # Recitation-011-Team-2
 Noah Tabori - nota5633
+
 Zach Driver - Zach-Driver
+
 Andrew Yonan - AndrewYonan
+
 Berkley Larson - berkleylarson
+
 Ben Garduno - Bbgarduno
 |                                                Course Website                                                 |                                                   Canvas                                                    |                                              Piazza                                               |
 | :-----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
